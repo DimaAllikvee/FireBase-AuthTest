@@ -10,9 +10,9 @@ val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
-val FieldBackground = Color(0xFFFFFFff)
-val FieldBoarder = Color(0xFFe5e5e5)
-val FieldPlaceholder = Color(0xFF9e9e9e)
+val FieldBackground = Color(0xFFFFFFFF)
+val FieldBorder = Color(0xFFE5E5E5)
+val FieldPlaceholder = Color(0xFF9E9E9E)
 
-val PrimaryButtonBackground = Color(0xFF1E88e5)
+val PrimaryButtonBackground = Color(0xFF1E88E5)
 val PrimaryButtonText = Color(0xFFFFFFFF)
